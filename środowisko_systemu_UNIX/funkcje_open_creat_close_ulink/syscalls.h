@@ -1,0 +1,8 @@
+#ifndef SYSCALLS_H_INCLUDE
+#define SYSCALLS_H_INCLUDE
+
+#define BUFSIZ 1000
+
+#endif //SYSCALLS_H_INCLUDE
+
+
